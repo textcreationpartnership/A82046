@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and propositions of the Lord Maior of London to the Kings most Excellent Maiesty and and [sic] both Houses of Parliament, concerning a treaty for Peace. Together with the House of Commons answer to the said declaration. Also a true information of 800. Danes landing in Lincolnshire, Decemb. 20. And how the trained bands of that county gave them battell neer the towne of Lee, ond [sic] obtained a happy victory over them. Together with the resolution of the Hous [sic] of Commons concerning the Danee. Also a second victory obtained by Sergeant Major Skipton and Col, Browne at Chichester Decmb. 22. against the kings forces that lye there,</title>
+            <author>City of London (England). Lord Mayor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82046</idno>
+            <idno type="STC">Wing D537</idno>
+            <idno type="STC">Thomason E83_18</idno>
+            <idno type="STC">ESTC R5000</idno>
+            <idno type="EEBO-CITATION">99872765</idno>
+            <idno type="PROQUEST">99872765</idno>
+            <idno type="VID">125211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125211)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and propositions of the Lord Maior of London to the Kings most Excellent Maiesty and and [sic] both Houses of Parliament, concerning a treaty for Peace. Together with the House of Commons answer to the said declaration. Also a true information of 800. Danes landing in Lincolnshire, Decemb. 20. And how the trained bands of that county gave them battell neer the towne of Lee, ond [sic] obtained a happy victory over them. Together with the resolution of the Hous [sic] of Commons concerning the Danee. Also a second victory obtained by Sergeant Major Skipton and Col, Browne at Chichester Decmb. 22. against the kings forces that lye there,</title>
+                  <author>City of London (England). Lord Mayor.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Decem. 24. Printed for Henry Liech,</publisher>
+                  <pubPlace>[s.l.] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sir Isaac Penington first became lord mayor August 16, 1642. cf. DNB.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penington, Isaac, --  Sir, 1587?-1660 --  Early works to 1800.</term>
+               <term>Browne, Richard, --  Sir, 1602?-1669.</term>
+               <term>Skippon, Philip, d. 1660.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+               <term>London (England) --  History --  Early works to 1800.</term>
+               <term>Lincolnshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125211:1" rendition="simple:additions"/>
+            <p>THE DECLARATION AND Propoſitions of the Lord Maior of <hi>London</hi> to the Kings moſt Excellent Maieſty and and both Houſes of Parliament, concerning a Treaty for Peace. Together with the Houſe of Commons Anſwer to the ſaid Declaration. Alſo a true Information of 800. Danes lan<g ref="char:EOLhyphen"/>ding in <hi>Lincolnſhire, Decemb.</hi> 20. And how the Trained-Bands of rhat County gave them Battell neer the Towne of Lee, ond obtained a happy victory over them. Together with the Reſolution of the houſ of Commons concerning the Danee. Alſo a ſecond Victory obtaind by Sergeant Major Skipton and Col, Browne at Chicheſter Decemb. 22. againſt the Kings Forces that lye there,</p>
+            <p>
+               <hi>Decem.</hi> 24. Printed for <hi>Henry Liech.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:125211:2" rendition="simple:additions"/>
+            <pb facs="tcp:125211:2"/>
+            <head>
+               <hi>THE LORD MAJOR</hi> OF <hi>LONDON</hi> His Propoſitions to the Kings moſt excellent Maieſty at Oxford, Decemb. <hi>22.</hi>
+            </head>
+            <p>THE Lord Major of <hi>London,</hi> together with divers Citiſens, having ſeriouſ<g ref="char:EOLhyphen"/>ly weighed and conſidered the preſent E<g ref="char:EOLhyphen"/>ſtate and condition of this Diſtreſſed Kingdom, occaſioned by thoſe wicked and Malignant Spirits, that are enemies to the Common-wealth, and Adverſaries to the
+<pb facs="tcp:125211:3"/> publike good, having agreed upon certain propoſitions to be preſented to His Ma<g ref="char:EOLhyphen"/>jeſty for a reconciliation of theſe differen<g ref="char:EOLhyphen"/>cies between his Majeſty and both Houſes of Parliament, upon Tueſday laſt the ſaid Lord Maior accompanied with divers of the Aldermen and Citizens went up to the Houſe of Commons and propounded theſe following propoſitions in the name of themſelves and the whole City, it be<g ref="char:EOLhyphen"/>ing directed to the Lords and Commons, which propoſitions were to this effect:</p>
+            <p n="1">1. They gave the Parliament hearty thanks for their unwearied paine and care to ſettle the preſent diſtractions of this Kingdomc, and their ſeverall addreſſes to His Majeſty for the ſame, deſiring His Majeſty to come and ioyn with his Par<g ref="char:EOLhyphen"/>liament for the eſtabliſhing and ſetling of firme peace.</p>
+            <p>Then ſeeing His Majeſty hath often de<g ref="char:EOLhyphen"/>clared, that hee could not with ſafety re<g ref="char:EOLhyphen"/>turne to the Parliament, by reaſon of the tumults raiſed in the City, they have drawn up a petition to his Maieſty expreſſing
+<pb facs="tcp:125211:3"/> their loyalty and obedience towards him, to be as great as any of their predeceſſors, and they were ready to give His Maieſty all further aſſurance of the ſame if His Maieſty would be graciouſly pleaſed to come to His Parliament, &amp;c. Which pe<g ref="char:EOLhyphen"/>tition they alſo preſented to the Com<g ref="char:EOLhyphen"/>mons, deſiring them to conſider of a way how the ſame might be ſent unto his Ma<g ref="char:EOLhyphen"/>ieſty.</p>
+         </div>
+         <div type="account">
+            <p>Upon Wedneſday laſt Letrers came to the Houſe of Commons from <hi>Lin<g ref="char:EOLhyphen"/>colnſhire,</hi> intimating, That on Sunday laſt there was 500. Danes landed in that Coun<g ref="char:EOLhyphen"/>tie; But the Trained Bands there imme<g ref="char:EOLhyphen"/>diately aroſe, and being in number about 400. they marched toward them, and gave them Baitell neer the Town of <hi>Lee,</hi> where they ſlew about 50. of them. The Houſe of Commons have Ordered, that ſome good Commanders ſhall be ſpeedily ſent downe to oppoſe the ſaid <hi>Danes.</hi>
+            </p>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:125211:4"/>
+            <head>The Parliaments Anſwer to the fore<g ref="char:EOLhyphen"/>ſaid Propoſitions.</head>
+            <p>THeſe Propoſitions being read, the Sheriffes and Aldermen were called into the Houſe, who returned them great thankes for their Petitions, and then their Petitions being communicated to the Lords, they alſo gave them thankes, and promiſed to joyne with the Commons concerning the ſame.</p>
+         </div>
+         <div type="petition">
+            <head>The Parliaments Propoſitions to the Kings Moſt Excellent Majeſty.</head>
+            <p>IT being often debated in the Lords Houſe, concerning the framing of cer<g ref="char:EOLhyphen"/>taine Propoſitions for an Accommodation of Peace to be preſented to His Majeſty, their Lordſhips at laſt having drawne up
+<pb facs="tcp:125211:4"/> the ſame, deſired a Conference with the Commons, at which Conference the ſaid propoſitions were read, and the Com<g ref="char:EOLhyphen"/>mons deſired to conſider of the ſame; and the ſaid propoſitions were to this effect:</p>
+            <p n="1">1. That His Majeſty would be plea<g ref="char:EOLhyphen"/>ſed to give his Royall conſent to ſuch Bills as have already been agreed upon by both Houſes of Parliam. amongſt which is the Bill for taking away all Innovati<g ref="char:EOLhyphen"/>ons out of the Church, a Bill againſt ſcan<g ref="char:EOLhyphen"/>dalous Miniſters, a Bill againſt Pluralities a Bill for the Aſſembly of the Clergy, for ſetling of Church Government, the Bill againſt Biſhops, Deanes, and Chapters, &amp;c.</p>
+            <p n="2">2 That His Majeſty would paſſe a Bill for the better eſtabliſhing of the Rights, and priviledges of Parliament, and the li<g ref="char:EOLhyphen"/>berty of the Subject.</p>
+            <p n="3">3 That Delinquents might be delive<g ref="char:EOLhyphen"/>vered up, or left to receive ſuch puniſh<g ref="char:EOLhyphen"/>ment as is agreeable to the Lawes of the Land, amongſt which are nominated the Lord <hi>Digby, Wilmot,</hi> and others.</p>
+            <pb facs="tcp:125211:5"/>
+            <p n="4">4 That His Majeſty would paſſe a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the clearing of the Lord <hi>Kimbolton</hi> a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the 5. Members that were accuſed of the Houſe of Commons.</p>
+            <p n="5">5 That all Miniſters of State, Judg<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and other Officers that have beene recei<g ref="char:EOLhyphen"/>ved ſince the difference between His Ma<g ref="char:EOLunhyphen"/>jeſty and the parliament, may bee reſto<g ref="char:EOLunhyphen"/>red.</p>
+            <p>Col. <hi>Browne</hi> having ſent his priſoner which he took at <hi>Wincheſter</hi> to <hi>Portſmouth</hi> he and Sir <hi>W. Waller</hi> marched with theſe Forces to <hi>Chicheſter,</hi> where they met with a great party of the Kings Army, &amp; draw<g ref="char:EOLhyphen"/>ing their men into a great Field, they be<g ref="char:EOLunhyphen"/>gan to charg each other, wher they fought for the ſpace of ſeven houres very coura<g ref="char:EOLhyphen"/>giouſly, and at the laſt. Ser. Maj. <hi>Skipton</hi> came with 11. Troops of Horſe and fel on ſo couragiouſly, that the Kings Army was put to flight, taking priſoners and killing about 200 men with the loſſe of 40, And after the Fight they poſſeſſed themſelves of <hi>Arundel;</hi> and took Sir <hi>Rich. Rochford,</hi> and Mr. <hi>Rochford</hi> priſoners.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
